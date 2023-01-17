@@ -1,3 +1,5 @@
+BraveBrowser 1.47.171 109.0.5414.87
+
 https://github.com/brave/brave-browser/releases/tag/v1.47.171
 
 BraveBrowser 1.47.171 x64
