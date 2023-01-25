@@ -1,5 +1,24 @@
 http://googlechromereleases.blogspot.com/
 
+Google Chrome 109.0.5414.120
+
+Google Chrome 109.0.5414.120 x64
+
+https://www.google.com/dl/release2/chrome/czao2hrvpk5wgqrkz4kks5r734_109.0.5414.120/109.0.5414.120_chrome_installer.exe
+
+https://dl.google.com/release2/chrome/czao2hrvpk5wgqrkz4kks5r734_109.0.5414.120/109.0.5414.120_chrome_installer.exe
+
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/czao2hrvpk5wgqrkz4kks5r734_109.0.5414.120/109.0.5414.120_chrome_installer.exe
+
+Google Chrome 109.0.5414.120 x86
+
+https://www.google.com/dl/release2/chrome/acihtkcueyye3ymoj2afvv7ulzxa_109.0.5414.120/109.0.5414.120_chrome_installer.exe
+
+https://dl.google.com/release2/chrome/acihtkcueyye3ymoj2afvv7ulzxa_109.0.5414.120/109.0.5414.120_chrome_installer.exe
+
+https://edgedl.me.gvt1.com/edgedl/release2/chrome/acihtkcueyye3ymoj2afvv7ulzxa_109.0.5414.120/109.0.5414.120_chrome_installer.exe
+
+
 Google Chrome 109.0.5414.75
 
 Google Chrome 109.0.5414.75 x64
