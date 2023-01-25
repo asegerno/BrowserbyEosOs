@@ -2,6 +2,21 @@ https://www.microsoft.com/en-us/windows/microsoft-edge
 
 https://www.microsoft.com/en-us/edge/business/download
 
+Edge 109.0.1518.61
+
+Edge 109.0.1518.61 64-Bit Installer
+https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f5524660-74d7-4441-9aba-4c5884a171a5/MicrosoftEdgeEnterpriseX64.msi
+
+Edge 109.0.1518.61 32-Bit Installer
+https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d5b2008c-1352-4373-91eb-75cd969eea07/MicrosoftEdgeEnterpriseX86.msi
+
+Edge 109.0.1518.61 64-Bit ARM Installer
+https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ed6a74df-5313-4f5d-b350-87cc53bc8d13/MicrosoftEdgeEnterpriseARM64.msi
+
+Microsoft Edge 109.0.1518.61 Policy
+https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d94a2eb7-f7cc-4f4d-93e8-b2d4dfc52aae/MicrosoftEdgePolicyTemplates.cab
+
+
 Edge 109.0.1518.55
 
 Edge 109.0.1518.55 64-Bit Installer
@@ -15,6 +30,7 @@ https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c7fb2b
 
 Microsoft Edge 109.0.1518.55 Policy
 https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1bacf258-3d5b-4435-bd00-5dc52b3b2d8a/MicrosoftEdgePolicyTemplates.cab
+
 
 Edge 109.0.1518.49
 
