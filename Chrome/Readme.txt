@@ -7,10 +7,14 @@ https://www.google.com/dl/release2/chrome/ad2uwza6rxngw4rvu7lrmj5rvtca_109.0.541
 
 https://dl.google.com/release2/chrome/ad2uwza6rxngw4rvu7lrmj5rvtca_109.0.5414.75/109.0.5414.75_chrome_installer.exe
 
+https://redirector.gvt1.com/edgedl/release2/chrome/ad2uwza6rxngw4rvu7lrmj5rvtca_109.0.5414.75/109.0.5414.75_chrome_installer.exe
+
 Google Chrome 109.0.5414.75 x32
 https://www.google.com/dl/release2/chrome/iandejvvsv4265lok5ksg3txyy_109.0.5414.75/109.0.5414.75_chrome_installer.exe
 
 https://dl.google.com/release2/chrome/iandejvvsv4265lok5ksg3txyy_109.0.5414.75/109.0.5414.75_chrome_installer.exe
+
+https://redirector.gvt1.com/edgedl/release2/chrome/iandejvvsv4265lok5ksg3txyy_109.0.5414.75/109.0.5414.75_chrome_installer.exe
 
 Google Chrome 49.0.2623.112
 
